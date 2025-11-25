@@ -32,7 +32,7 @@ The program accepts user input via `scanf` and prints the result.
 ---
 
 ## 🖥️ Example Run
-```c
+
 Enter a number to find its Fibonacci value: 7
 The Fibonacci of 7 is 13
 ```c
